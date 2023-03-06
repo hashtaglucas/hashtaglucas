@@ -1,16 +1,17 @@
-### Hi there 👋
+Esse é um texto na primeira linha  
+Esse é um texto na segunda linha
 
-<!--
-**hashtaglucas/hashtaglucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Esse é um texto na primeira linha <br>
+Esse é um texto na segunda linha `<br>`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Esse é um texto em **negrito** e isso está em *itálico*. ***Negrito e itálico***
+
+> Esse é um bloco de citação
+
+![Minha foto](https://avatars.githubusercontent.com/u/124811327?v=4)
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+          
